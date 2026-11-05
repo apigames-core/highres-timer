@@ -46,7 +46,6 @@ $ npm i @apigames/highres-timer
 ## Authors or Acknowledgments
 
 *   Cloudize Limited
-*   Vlad Tansky
 
 ## License
 
